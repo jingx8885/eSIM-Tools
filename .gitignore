@@ -120,3 +120,4 @@ postman/
 #context
 .context/
 
+.sniff/
